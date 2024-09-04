@@ -1,6 +1,6 @@
 INSERT INTO puuppt.clients (firstname, lastname, email)
 VALUES (
-        'Sneh ',
-        'Saurav',
-        'snehsauravv248@gmail.com'
+        'Rohit ',
+        'Yadav',
+        'rohitzadavv@gmail.com'
     );
